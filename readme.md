@@ -85,9 +85,4 @@
 
 ### Here you go your application is up and running... 🎉
 
-# Meta Information ⏳
-
-- Time Taken: 4 months
-- Upcoming Future Major Enhancement: Updating Payment Method (Razorpay), Adding cloudinary/AWS to store images
-
 ## Thanks for spending your valuable time on this project 😄
