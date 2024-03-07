@@ -14,7 +14,7 @@
 - As it is deployed in onrender so it will take lit-bit time to connect with backend part.
 - After opening the link kindly wait atleast 15-20 seconds.
 
-- [Live Link (click here)](https://goldy-mart45.onrender.com/)
+- [Live Link (click here)](https://mart-view.onrender.com/)
 
 ## Here you can see the folder structure of the project:
 
@@ -52,17 +52,6 @@
 ![](https://img.shields.io/badge/New-Update-brightgreen) Updating Payment Method (Razorpay), Adding cloudinary/AWS to store images
 
 ### The images used in this project were obtained from [https://www.pexels.com/](https://www.pexels.com/) to ensure a visually appealing user experience.
-
-## About Developer 👨‍💻
-
-Hey I am Akshun Verma. Fullstack Javascript Developer from Delhi. Very much eager to explore and develop scalable, user friendly, robust applications and Kaizen on problem solving skills
-
-- [Instagram](https://www.instagram.com/akshunn_3945/)
-- [LinkedIn](https://www.linkedin.com/in/akshun-verma-98110b214/)
-
-#### Do reach out and provide your valuable insights about the project. I appreciate your inputs.
-
-#### Do reach out if you have any project idea let's work together and achieve goals.
 
 ### Machine requirements to run this project 🎯
 
