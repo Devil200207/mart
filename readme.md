@@ -45,8 +45,6 @@
 ![](/imagess/img1.png)
 ![](/imagess/img2.png)
 ![](/imagess/img3.png)
-![](/imagess/img4.png)
-
 ### Future Updates:
 
 ![](https://img.shields.io/badge/New-Update-brightgreen) Updating Payment Method (Razorpay), Adding cloudinary/AWS to store images
